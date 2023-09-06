@@ -1,0 +1,115 @@
+/* App.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  /* Header styles */
+  .header {
+    background-color: #2980b9;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  
+ 
+  .attendance-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .present {
+    background-color: #2ecc71;
+    color: white;
+  }
+  
+  .absent {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  .sunday {
+    color: white;
+  }
+  .tooltip {
+    position: relative;
+  }
+  
+  .tooltip-text {
+    display: none;
+  }
+  
+  .tooltip-content {
+    position: absolute;
+    bottom: -28px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .attendance-tile:hover .tooltip-content {
+    opacity: 1;
+  }
+.calendar-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center the calendar */
+  }
+
+  .attendance-summary {
+    margin-top: 10px; 
+    text-align: center;
+    font-size: 14px; 
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+  }
+  
+  
+  .progress-bar {
+    background-color: #3498db; /* Adjusted color */
+    color: white;
+    text-align: center;
+    line-height: 16px; /* Adjusted line height */
+    font-size: 10px; /* Adjusted font size */
+    border-radius: 4px; /* Smaller border radius */
+    height: 16px; /* Set height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .calendar-container {
+      max-width: 90%;
+    }
+  }
+  
+  

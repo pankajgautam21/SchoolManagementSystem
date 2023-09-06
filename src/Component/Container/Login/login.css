@@ -1,0 +1,50 @@
+.upper
+{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width:100%;
+  border-radius: 1px solid black;
+  justify-content: center;
+}
+.inner
+{
+  display:flex;
+  flex-direction: column;
+  width:80%;
+  height:70%;
+  align-self: end;
+  border-radius: 1px solid black;
+  justify-content: center;
+  align-items: space-around;
+}
+.second
+{
+    display:flex;
+    flex-direction: column;  
+    white-space: nowrap;
+}
+.lower-button
+{
+    border:1px solid blue;
+}
+span{
+   color:#666;
+   
+}
+@media only screen and (min-width: 900px)
+{
+    .inner{
+        width:40%;
+    }
+}
+.first
+{
+    white-space: nowrap;
+}
+a{
+    cursor: pointer;
+}
+body{
+    background-color: #fff;
+}

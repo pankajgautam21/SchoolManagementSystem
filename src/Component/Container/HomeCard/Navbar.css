@@ -1,0 +1,54 @@
+/* Navbar.css */
+.navbar {
+    margin-bottom: 20px; /* Add some space below the navbar */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem; /* Increase the logo font size */
+    font-weight: bold;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #333; /* Customize the navbar toggler icon color */
+  }
+  
+  .navbar-toggler {
+    border: none; /* Remove the border from the toggler button */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333; /* Customize the nav links color */
+    font-weight: bold;
+    padding: 0.5rem 1rem; /* Add padding to the nav links */
+    transition: color 0.3s;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  /* Navbar.css */
+/* ... (other styles) */
+
+.profile-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .profile-name {
+    font-weight: bold;
+  }
+  
+  /* Add responsive styles for smaller screens */
+  @media (max-width: 768px) {
+    .profile-section {
+      margin-top: 10px;
+    }
+  }
+  

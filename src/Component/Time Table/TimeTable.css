@@ -1,0 +1,58 @@
+/* Timetable.css */
+.timetable-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .timetable-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .timetable-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .timetable-row {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .timetable-row:hover {
+    transform: translateY(-2px);
+  }
+  
+  /* Style individual grid items */
+  .time {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .subject {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .teacher {
+    color: #555;
+  }
+  
+  .room {
+    color: #777;
+  }
+  

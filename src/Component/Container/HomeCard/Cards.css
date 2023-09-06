@@ -1,0 +1,28 @@
+/* Cards.css */
+.card {
+    width: 16rem; 
+    height: 8rem; 
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 7%;
+    color: inherit;
+    transition: transform 0.2s;
+    touch-action: none;
+  }
+ 
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .card-title {
+    width: 100%;
+    text-align: center;
+  }
+  
