@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/schoolmanagementsystem/static/css/main.990f0746.css",
+    "main.js": "/schoolmanagementsystem/static/js/main.d3dc345b.js",
+    "static/js/787.ec704a7a.chunk.js": "/schoolmanagementsystem/static/js/787.ec704a7a.chunk.js",
+    "static/media/Timetablemarked.svg": "/schoolmanagementsystem/static/media/Timetablemarked.11cb05230a66395ea8fd5dddb0cf5035.svg",
+    "static/media/Study.svg": "/schoolmanagementsystem/static/media/Study.0263744bf54594131dd7d9473fe2cff4.svg",
+    "static/media/Homeworkresult.svg": "/schoolmanagementsystem/static/media/Homeworkresult.800d67ff2974e63856a1ac841e4d4f8d.svg",
+    "static/media/yogshem.svg": "/schoolmanagementsystem/static/media/yogshem.9643e48afeea2d5a0d9f2c1590092e5a.svg",
+    "static/media/TimeTable.svg": "/schoolmanagementsystem/static/media/TimeTable.4f35bbbe9e3154f2345ab1bf0c86cf69.svg",
+    "static/media/examination.svg": "/schoolmanagementsystem/static/media/examination.115c547e2653c959f6cfd394872887df.svg",
+    "index.html": "/schoolmanagementsystem/index.html",
+    "static/media/Homework.svg": "/schoolmanagementsystem/static/media/Homework.4000d9d04ba1647938eac84d9c992f31.svg",
+    "static/media/bellicon.svg": "/schoolmanagementsystem/static/media/bellicon.f006abfe41a61adb9a30b589069bee47.svg",
+    "static/media/Result.svg": "/schoolmanagementsystem/static/media/Result.f66fb3daf22a22e486408bd12b6acc7c.svg",
+    "static/media/rightvector.svg": "/schoolmanagementsystem/static/media/rightvector.234417baf742bbd04e244a2fb46c36f2.svg",
+    "static/media/vector.svg": "/schoolmanagementsystem/static/media/vector.c539d4d337e0459b61aedb4c651e8295.svg",
+    "main.990f0746.css.map": "/schoolmanagementsystem/static/css/main.990f0746.css.map",
+    "main.d3dc345b.js.map": "/schoolmanagementsystem/static/js/main.d3dc345b.js.map",
+    "787.ec704a7a.chunk.js.map": "/schoolmanagementsystem/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.990f0746.css",
+    "static/js/main.d3dc345b.js"
+  ]
+}
