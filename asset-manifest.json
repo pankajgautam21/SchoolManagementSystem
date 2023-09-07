@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SchoolManagementSystem/static/css/main.990f0746.css",
-    "main.js": "/SchoolManagementSystem/static/js/main.64248553.js",
+    "main.js": "/SchoolManagementSystem/static/js/main.3c2e891c.js",
     "static/js/787.ec704a7a.chunk.js": "/SchoolManagementSystem/static/js/787.ec704a7a.chunk.js",
     "static/media/Timetablemarked.svg": "/SchoolManagementSystem/static/media/Timetablemarked.11cb05230a66395ea8fd5dddb0cf5035.svg",
     "static/media/Study.svg": "/SchoolManagementSystem/static/media/Study.0263744bf54594131dd7d9473fe2cff4.svg",
@@ -16,11 +16,11 @@
     "static/media/rightvector.svg": "/SchoolManagementSystem/static/media/rightvector.234417baf742bbd04e244a2fb46c36f2.svg",
     "static/media/vector.svg": "/SchoolManagementSystem/static/media/vector.c539d4d337e0459b61aedb4c651e8295.svg",
     "main.990f0746.css.map": "/SchoolManagementSystem/static/css/main.990f0746.css.map",
-    "main.64248553.js.map": "/SchoolManagementSystem/static/js/main.64248553.js.map",
+    "main.3c2e891c.js.map": "/SchoolManagementSystem/static/js/main.3c2e891c.js.map",
     "787.ec704a7a.chunk.js.map": "/SchoolManagementSystem/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.990f0746.css",
-    "static/js/main.64248553.js"
+    "static/js/main.3c2e891c.js"
   ]
 }
